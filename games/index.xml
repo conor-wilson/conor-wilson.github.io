@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on Conor Wilson&#39;s Cool Site</title>
+    <link>http://localhost:33855/games/</link>
+    <description>Recent content in Games on Conor Wilson&#39;s Cool Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Sun, 06 Jul 2025 17:39:56 +1000</lastBuildDate><atom:link href="http://localhost:33855/games/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snake</title>
+      <link>http://localhost:33855/games/snake/</link>
+      <pubDate>Sun, 06 Jul 2025 17:39:56 +1000</pubDate>
+      
+      <guid>http://localhost:33855/games/snake/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
