@@ -19,5 +19,55 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://conorwilson.com/posts/1751885777549-new-article/featured.png" />
     </item>
     
+    <item>
+      <title>Mapmancer</title>
+      <link>https://conorwilson.com/games/1751891209150-mapmancer/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://conorwilson.com/games/1751891209150-mapmancer/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://conorwilson.com/games/1751891209150-mapmancer/featured.png" />
+    </item>
+    
+    <item>
+      <title>Salt of Epsom</title>
+      <link>https://conorwilson.com/games/1751890923071-salt-of-epsom/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://conorwilson.com/games/1751890923071-salt-of-epsom/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://conorwilson.com/games/1751890923071-salt-of-epsom/featured.png" />
+    </item>
+    
+    <item>
+      <title>The Search for the Secret Sapphire</title>
+      <link>https://conorwilson.com/games/1751890313074-secret-sapphire/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://conorwilson.com/games/1751890313074-secret-sapphire/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://conorwilson.com/games/1751890313074-secret-sapphire/featured.png" />
+    </item>
+    
+    <item>
+      <title>Dr Shrink and the Horrors of the Infinite</title>
+      <link>https://conorwilson.com/games/1751889970913-dr-shrink/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://conorwilson.com/games/1751889970913-dr-shrink/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://conorwilson.com/games/1751889970913-dr-shrink/featured.png" />
+    </item>
+    
+    <item>
+      <title>Snake</title>
+      <link>https://conorwilson.com/games/1751889236896-snake/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://conorwilson.com/games/1751889236896-snake/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://conorwilson.com/games/1751889236896-snake/featured.png" />
+    </item>
+    
   </channel>
 </rss>

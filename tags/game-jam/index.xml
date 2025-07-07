@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Games on Conor W&#39;s Site</title>
-    <link>https://conorwilson.com/games/</link>
-    <description>Recent content in Games on Conor W&#39;s Site</description>
+    <title>Game-Jam on Conor W&#39;s Site</title>
+    <link>https://conorwilson.com/tags/game-jam/</link>
+    <description>Recent content in Game-Jam on Conor W&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Conor W</copyright>
-    <lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://conorwilson.com/games/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://conorwilson.com/tags/game-jam/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mapmancer</title>
@@ -47,16 +47,6 @@
       <guid>https://conorwilson.com/games/1751889970913-dr-shrink/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://conorwilson.com/games/1751889970913-dr-shrink/featured.png" />
-    </item>
-    
-    <item>
-      <title>Snake</title>
-      <link>https://conorwilson.com/games/1751889236896-snake/</link>
-      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://conorwilson.com/games/1751889236896-snake/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://conorwilson.com/games/1751889236896-snake/featured.png" />
     </item>
     
   </channel>
