@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gwj on Conor Wilson</title>
-    <link>https://conorwilson.com/tags/gwj/</link>
+    <link>http://localhost:1313/tags/gwj/</link>
     <description>Recent content in Gwj on Conor Wilson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Conor Wilson</copyright>
-    <lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://conorwilson.com/tags/gwj/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/gwj/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mapmancer</title>
-      <link>https://conorwilson.com/games/1751891209150-mapmancer/</link>
+      <link>http://localhost:1313/games/1751891209150-mapmancer/</link>
       <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://conorwilson.com/games/1751891209150-mapmancer/</guid>
+      <guid>http://localhost:1313/games/1751891209150-mapmancer/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://conorwilson.com/games/1751891209150-mapmancer/MapmancerThumbnail.gif" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/games/1751891209150-mapmancer/MapmancerThumbnail.gif" />
     </item>
     
   </channel>
