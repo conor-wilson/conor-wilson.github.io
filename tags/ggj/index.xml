@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ggj on Conor Wilson</title>
-    <link>http://localhost:1313/tags/ggj/</link>
+    <link>https://conorwilson.com/tags/ggj/</link>
     <description>Recent content in Ggj on Conor Wilson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Conor Wilson</copyright>
-    <lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ggj/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://conorwilson.com/tags/ggj/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Salt of Epsom</title>
-      <link>http://localhost:1313/games/1751890923071-salt-of-epsom/</link>
+      <link>https://conorwilson.com/games/1751890923071-salt-of-epsom/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/games/1751890923071-salt-of-epsom/</guid>
+      <guid>https://conorwilson.com/games/1751890923071-salt-of-epsom/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/games/1751890923071-salt-of-epsom/SaltOfEpsomThumbnail.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://conorwilson.com/games/1751890923071-salt-of-epsom/SaltOfEpsomThumbnail.png" />
     </item>
     
   </channel>

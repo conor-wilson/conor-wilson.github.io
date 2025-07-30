@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conor Wilson</title>
-    <link>http://localhost:1313/</link>
+    <link>https://conorwilson.com/</link>
     <description>Recent content on Conor Wilson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Conor Wilson</copyright>
-    <lastBuildDate>Wed, 30 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://conorwilson.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Contact Me</title>
-      <link>http://localhost:1313/about/1753881611890-contact-me/</link>
+      <link>https://conorwilson.com/about/1753881611890-contact-me/</link>
       <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/1753881611890-contact-me/</guid>
+      <guid>https://conorwilson.com/about/1753881611890-contact-me/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mapmancer</title>
-      <link>http://localhost:1313/games/1751891209150-mapmancer/</link>
+      <link>https://conorwilson.com/games/1751891209150-mapmancer/</link>
       <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/games/1751891209150-mapmancer/</guid>
+      <guid>https://conorwilson.com/games/1751891209150-mapmancer/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/games/1751891209150-mapmancer/MapmancerThumbnail.gif" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://conorwilson.com/games/1751891209150-mapmancer/MapmancerThumbnail.gif" />
     </item>
     
     <item>
       <title>Salt of Epsom</title>
-      <link>http://localhost:1313/games/1751890923071-salt-of-epsom/</link>
+      <link>https://conorwilson.com/games/1751890923071-salt-of-epsom/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/games/1751890923071-salt-of-epsom/</guid>
+      <guid>https://conorwilson.com/games/1751890923071-salt-of-epsom/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/games/1751890923071-salt-of-epsom/SaltOfEpsomThumbnail.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://conorwilson.com/games/1751890923071-salt-of-epsom/SaltOfEpsomThumbnail.png" />
     </item>
     
     <item>
       <title>The Search for the Secret Sapphire</title>
-      <link>http://localhost:1313/games/1751890313074-secret-sapphire/</link>
+      <link>https://conorwilson.com/games/1751890313074-secret-sapphire/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/games/1751890313074-secret-sapphire/</guid>
+      <guid>https://conorwilson.com/games/1751890313074-secret-sapphire/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/games/1751890313074-secret-sapphire/SecretSapphireThumbnail.gif" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://conorwilson.com/games/1751890313074-secret-sapphire/SecretSapphireThumbnail.gif" />
     </item>
     
     <item>
       <title>Dr Shrink and the Horrors of the Infinite</title>
-      <link>http://localhost:1313/games/1751889970913-dr-shrink/</link>
+      <link>https://conorwilson.com/games/1751889970913-dr-shrink/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/games/1751889970913-dr-shrink/</guid>
+      <guid>https://conorwilson.com/games/1751889970913-dr-shrink/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/games/1751889970913-dr-shrink/DrShrinkThumbnail.gif" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://conorwilson.com/games/1751889970913-dr-shrink/DrShrinkThumbnail.gif" />
     </item>
     
     <item>
       <title>Snake</title>
-      <link>http://localhost:1313/games/1751889236896-snake/</link>
+      <link>https://conorwilson.com/games/1751889236896-snake/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/games/1751889236896-snake/</guid>
+      <guid>https://conorwilson.com/games/1751889236896-snake/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/games/1751889236896-snake/SnakeThumbnail_repaired.gif" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://conorwilson.com/games/1751889236896-snake/SnakeThumbnail_repaired.gif" />
     </item>
     
   </channel>
