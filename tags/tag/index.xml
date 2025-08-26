@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tag on Conor Wilson</title>
-    <link>http://localhost:1313/tags/tag/</link>
+    <link>https://conorwilson.com/tags/tag/</link>
     <description>Recent content in Tag on Conor Wilson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Conor Wilson</copyright>
-    <lastBuildDate>Wed, 30 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://conorwilson.com/tags/tag/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Contact Me</title>
-      <link>http://localhost:1313/about/1753881611890-contact-me/</link>
-      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      <title>about-me</title>
+      <link>https://conorwilson.com/about/1756188587329-about-me/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/1753881611890-contact-me/</guid>
+      <guid>https://conorwilson.com/about/1756188587329-about-me/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/1753881611890-contact-me/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://conorwilson.com/about/1756188587329-about-me/featured.png" />
     </item>
     
   </channel>
