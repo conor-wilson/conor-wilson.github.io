@@ -4,61 +4,31 @@
 
   <url>
     <loc>https://conorwilson.com/</loc>
-    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://conorwilson.com/about/1756188587329-about-me/</loc>
-    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
+    <loc>https://conorwilson.com/about/1756355152208-resume/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://conorwilson.com/discord-contact/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://conorwilson.com/about/</loc>
-    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://conorwilson.com/about/1753881611890-contact-me/</loc>
-    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://conorwilson.com/games/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://conorwilson.com/games/1751891209150-mapmancer/</loc>
-    <lastmod>2025-05-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://conorwilson.com/games/1751890923071-salt-of-epsom/</loc>
-    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://conorwilson.com/games/1751890313074-secret-sapphire/</loc>
-    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://conorwilson.com/games/1751889970913-dr-shrink/</loc>
-    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://conorwilson.com/games/1751889236896-snake/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
