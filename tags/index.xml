@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Conor Wilson</copyright>
-    <lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://conorwilson.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://conorwilson.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Game</title>
       <link>https://conorwilson.com/tags/game/</link>
-      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>https://conorwilson.com/tags/game/</guid>
       <description></description>
@@ -22,9 +22,19 @@
     <item>
       <title>Game-Jam</title>
       <link>https://conorwilson.com/tags/game-jam/</link>
-      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>https://conorwilson.com/tags/game-jam/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Github-Game-Off</title>
+      <link>https://conorwilson.com/tags/github-game-off/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://conorwilson.com/tags/github-game-off/</guid>
       <description></description>
       
     </item>
@@ -45,16 +55,6 @@
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://conorwilson.com/tags/ggj/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Github-Game-Off</title>
-      <link>https://conorwilson.com/tags/github-game-off/</link>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://conorwilson.com/tags/github-game-off/</guid>
       <description></description>
       
     </item>
